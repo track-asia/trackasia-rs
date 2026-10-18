@@ -146,7 +146,7 @@ There are two important steps:
 ## Single UIApplication
 
 Right now `winit` only allows the usage of a `UIApplication`. This means the application needs to run in fullscreen.
-[Tracking Issue](https://github.com/maplibre/maplibre-rs/issues/28)
+[Tracking Issue](https://github.com/track-asia-vn/trackasia-rs/issues/28)
 
 ## Example App
 

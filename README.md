@@ -12,8 +12,8 @@
 <div style="text-align:center">
   <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
       alt="Stability" />
-  <a href="https://github.com/maplibre/maplibre-rs/actions/workflows/on_main_push.yml">
-    <img src="https://github.com/maplibre/maplibre-rs/actions/workflows/on_main_push.yml/badge.svg"
+  <a href="https://github.com/track-asia-vn/trackasia-rs/actions/workflows/on_main_push.yml">
+    <img src="https://github.com/track-asia-vn/trackasia-rs/actions/workflows/on_main_push.yml/badge.svg"
         alt="Build status" />
   </a>
   <a href="https://matrix.to/#/#maplibre:matrix.org">
@@ -112,7 +112,7 @@ graphics are achievable using the current stack.
 Clone the project
 
 ```bash
-git clone https://github.com/maplibre/maplibre-rs.git
+git clone https://github.com/track-asia-vn/trackasia-rs.git
 ```
 
 Build and run it on a desktop

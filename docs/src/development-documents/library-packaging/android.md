@@ -15,4 +15,4 @@ crate of maplibre-rs.
 
 Right now `winit` only allows the usage of a `NativeActivity`. This means the application needs to run in fullscreen.
 This native activity is referenced in the ´AndroidManifest.xml` by defining the name of the shared library.
-[Tracking Issue](https://github.com/maplibre/maplibre-rs/issues/28)
+[Tracking Issue](https://github.com/track-asia-vn/trackasia-rs/issues/28)
